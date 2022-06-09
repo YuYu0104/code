@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653118619 source:d:\yuyu\cc\structure\main.c
+	<stdio.h>
+	<stdlib.h>
+

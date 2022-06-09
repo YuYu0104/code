@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653809428 source:d:\yuyu\cc\conversion\main.c
+	<stdio.h>
+	<stdlib.h>
+
